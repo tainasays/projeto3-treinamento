@@ -15,5 +15,6 @@
 4. Tela do Colaborador
 ![image](https://github.com/tainasays/projeto3-treinamento/assets/102188509/f2cb074e-62fb-4ac2-a59a-24900633f8b0)
 
-6. Tela do Admin
-![image](https://github.com/tainasays/projeto3-treinamento/assets/102188509/e9b5229c-bbf8-4d50-b0d2-9b92ec04b6f4)
+6. Tela do Admin + Filtro de Data
+![image](https://github.com/tainasays/projeto3-treinamento/assets/102188509/4e7a8b33-29f3-48eb-b55b-0d5a791b2d37)
+
