@@ -6,7 +6,7 @@
 
 <h1>Novo Pedido</h1>
 
-<h4>Cliente</h4>
+
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -49,5 +49,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

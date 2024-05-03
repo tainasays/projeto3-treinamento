@@ -1,14 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SistemaControleVendasProjeto.Models;
-using System.Threading.Tasks;
 using VendasProjeto.Data;
 
 namespace SistemaControleVendasProjeto.Controllers
 {
     public class LoginController : Controller
     {
-        private readonly SistemaControleVendasProjetoContext _context; // Substitua 'SeuDbContext' pelo nome do seu contexto de banco de dados
+        private readonly SistemaControleVendasProjetoContext _context;
 
         public LoginController(SistemaControleVendasProjetoContext context)
         {
@@ -24,7 +22,7 @@ namespace SistemaControleVendasProjeto.Controllers
         public async Task<IActionResult> Index(string email, string senha)
         {
             var usuario = await _context.Usuario.FirstOrDefaultAsync(u => u.Email == email && u.Senha == senha);
-                      
+
             if (usuario != null)
             {
                 string nivelAcesso = "";
@@ -54,12 +52,12 @@ namespace SistemaControleVendasProjeto.Controllers
                     case "Cliente":
                         return RedirectToAction("Index", "ProdutosPedidos");
                     default:
-                        return RedirectToAction("Index", "Home"); // Página padrão, se o nível de acesso for desconhecido
+                        return RedirectToAction("Index", "Home");
                 }
             }
             else
             {
-                ViewBag.ErrorMessage = "Credenciais inválidas. Tente novamente.";
+                ViewBag.ErrorMessage = "Usuário ou senha inválidas. Tente novamente.";
                 return View();
             }
         }

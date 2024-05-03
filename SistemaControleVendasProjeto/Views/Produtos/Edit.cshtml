@@ -43,24 +43,26 @@
                 <input asp-for="DataCadastro" class="form-control" />
                 <span asp-validation-for="DataCadastro" class="text-danger"></span>
             </div>
-            
-            
+
+
             <div class="row">
                 <div class="col-4 mt-4">
                     <div class="form-group">
                         <input type="submit" value="Save" class="btn btn-outline-info" />
                     </div>
                 </div>
-                </form>
-                <div class="col-8 mt-4">
-                    <div>
-                        <a asp-action="Index" class="btn btn-info">Voltar para Lista</a>
-                    </div>
-                </div>
+        </form>
+        <div class="col-8 mt-4">
+            <div>
+                <a asp-action="Index" class="btn btn-info">Voltar para Lista</a>
             </div>
+        </div>
+    </div>
 
 
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }

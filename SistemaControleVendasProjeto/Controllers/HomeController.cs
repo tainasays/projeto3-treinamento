@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using SistemaControleVendasProjeto.Models;
 using System.Diagnostics;
-using VendasProjeto.Data;
 
 namespace SistemaControleVendasProjeto.Controllers
 {
@@ -15,10 +14,6 @@ namespace SistemaControleVendasProjeto.Controllers
         }
 
 
-        public IActionResult Login()
-        {
-            return View();
-        }
 
         public IActionResult Index()
         {
@@ -27,7 +22,7 @@ namespace SistemaControleVendasProjeto.Controllers
 
 
 
-public IActionResult Privacy()
+        public IActionResult Privacy()
         {
             return View();
         }
