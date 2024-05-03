@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\SistemaControleVendasProjeto.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\thayna.de.santana\\Desktop\\projeto3-SistemaControleVendas\\SistemaControleVendas\\SistemaControleVendasProjeto\\wwwroot\\assets\\adjustments.png",
+      "PackagePath": "staticwebassets\\assets\\adjustments.png"
+    },
+    {
+      "Id": "C:\\Users\\thayna.de.santana\\Desktop\\projeto3-SistemaControleVendas\\SistemaControleVendas\\SistemaControleVendasProjeto\\wwwroot\\assets\\computer.png",
+      "PackagePath": "staticwebassets\\assets\\computer.png"
+    },
+    {
+      "Id": "C:\\Users\\thayna.de.santana\\Desktop\\projeto3-SistemaControleVendas\\SistemaControleVendas\\SistemaControleVendasProjeto\\wwwroot\\assets\\secure-data.png",
+      "PackagePath": "staticwebassets\\assets\\secure-data.png"
+    },
+    {
       "Id": "C:\\Users\\thayna.de.santana\\Desktop\\projeto3-SistemaControleVendas\\SistemaControleVendas\\SistemaControleVendasProjeto\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

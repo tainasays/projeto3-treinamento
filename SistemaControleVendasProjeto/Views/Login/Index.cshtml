@@ -1,22 +1,29 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@* @model IEnumerable<SistemaControleVendasProjeto.Models.Funcionario>
+﻿<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
 
-<form class="row g-3 method="post">
-    <div class="col-auto">
-        <label for="emailLogin">Email</label>
-        <input type="text" class="form-control" id="email">
-    </div>
-    <div class="col-auto">
-        <label for="inputPassword2">Senha</label>
-        <input type="password" class="form-control" id="senha" />
-    </div>
-    <div class="col-auto">
-        <button type="submit" class="btn btn-primary mb-3 asp-area=" asp-controller="Pedidos" asp-action="Index">Confirm identity</button>
-    </div>
-</form> *@
+            <a class="navbar-brand ml-4" asp-area="" asp-controller="Home" asp-action="Index">Controle de Vendas</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Política de Privacidade</a>
+                    </li>
+            </div>
+
+            </ul>
+            </>
+        </div>
+    </nav>
+</header>
 
 @{
     ViewData["Title"] = "Login";
@@ -24,8 +31,8 @@
 
 <div class="container">
 
-<div class="row">
-<h2>Login</h2>
+<div class="row mt-2 mb-2">
+<h1>Login</h1>
 
 @if (ViewBag.ErrorMessage != null)
 {
@@ -35,7 +42,7 @@
 }
 </div>
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-2">
 
         <form asp-controller="Login" asp-action="Index" method="post">
         <div class="col-4">

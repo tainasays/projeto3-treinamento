@@ -71,12 +71,6 @@
                         <a class="nav-link active" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Política de Privacidade</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" asp-area="" asp-controller="Produtos" asp-action="Index">Produtos</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" asp-area="" asp-controller="CategoriaProdutos" asp-action="Index">Categorias de Produto</a>
                     </li>
                     <li class="nav-item">
@@ -110,6 +104,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.ProdutoID)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.NomeProduto)
             </th>
             <th>
@@ -133,6 +130,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdutoID)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.NomeProduto)
             </td>

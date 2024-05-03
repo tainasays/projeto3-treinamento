@@ -1,12 +1,52 @@
 ﻿@{
     ViewData["Title"] = "Home";
 }
+<head>
+    
+</head>
 
-<div class="text-center">
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+
+            <a class="navbar-brand ml-4" asp-area="" asp-controller="Home" asp-action="Index">Controle de Vendas</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Política de Privacidade</a>
+                    </li>
+                    </div>
+
+                </ul>
+            </>
+        </div>
+    </nav>
+</header>
+
+<div class="text-center mt-4">
     <h1 class="display-4">Seja Bem-vindo(a) ao Sistema de Controle de Vendas!</h1>
 
-    <p> Atenção:
-        O acesso é restrito, é preciso autenticar-se para continuar!</p>
+    <h2>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclamation-triangle" viewBox="0 0 16 16">
+            <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.15.15 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.2.2 0 0 1-.054.06.1.1 0 0 1-.066.017H1.146a.1.1 0 0 1-.066-.017.2.2 0 0 1-.054-.06.18.18 0 0 1 .002-.183L7.884 2.073a.15.15 0 0 1 .054-.057m1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767z" />
+            <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0M7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0z" />
+        </svg>
+    </h2>
+        <p>O acesso é restrito, é preciso autenticar-se para continuar</p>
+
+    @* <a href="https://www.flaticon.com/free-icons/adjustments" title="adjustments icons">Adjustments icons created by DinosoftLabs - Flaticon</a> *@
+
+    <div><img src="./assets/secure-data.png" alt="Computador com expressão de quebrado" width="50" height="50" /></div>
 
     <a class="nav-link text-white" asp-area="" asp-controller="Login" asp-action="Index"><button type="button" class="btn btn-info">Entrar</a></button>
 

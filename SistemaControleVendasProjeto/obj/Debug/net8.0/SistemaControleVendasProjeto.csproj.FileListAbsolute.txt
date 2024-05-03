@@ -250,3 +250,4 @@ C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControl
 C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto\obj\Debug\net8.0\SistemaControleVendasProjeto.pdb
 C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto\obj\Debug\net8.0\SistemaControleVendasProjeto.genruntimeconfig.cache
 C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto\obj\Debug\net8.0\ref\SistemaControleVendasProjeto.dll
+C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto\obj\Debug\net8.0\SistemaControleVendasProjeto.sourcelink.json
