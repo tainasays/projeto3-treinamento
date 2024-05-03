@@ -1,0 +1,247 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaControleVendasProjeto
+build_property.RootNamespace = SistemaControleVendasProjeto
+build_property.ProjectDir = C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thayna.de.santana\Desktop\projeto3-SistemaControleVendas\SistemaControleVendas\SistemaControleVendasProjeto
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/CategoriaProdutos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/CategoriaProdutos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/CategoriaProdutos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/CategoriaProdutos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/CategoriaProdutos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/FormaPagamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFQYWdhbWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/FormaPagamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFQYWdhbWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/FormaPagamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFQYWdhbWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/FormaPagamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFQYWdhbWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/FormaPagamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFQYWdhbWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Funcionarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Funcionarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Funcionarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Funcionarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Funcionarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Nivel2/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWwyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Nivel2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWwyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/NivelAcessos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxBY2Vzc29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/NivelAcessos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxBY2Vzc29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/NivelAcessos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxBY2Vzc29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/NivelAcessos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxBY2Vzc29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/NivelAcessos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxBY2Vzc29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Pedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Pedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Pedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Pedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/ProdutosPedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NQZWRpZG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/ProdutosPedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NQZWRpZG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/ProdutosPedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NQZWRpZG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/ProdutosPedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NQZWRpZG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/ProdutosPedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NQZWRpZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thayna.de.santana/Desktop/projeto3-SistemaControleVendas/SistemaControleVendas/SistemaControleVendasProjeto/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6ww4p45d7a

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaControleVendasProjeto", "SistemaControleVendasProjeto\SistemaControleVendasProjeto.csproj", "{5A97716C-018F-4EEE-9CDA-F46BF845F4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A97716C-018F-4EEE-9CDA-F46BF845F4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A97716C-018F-4EEE-9CDA-F46BF845F4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A97716C-018F-4EEE-9CDA-F46BF845F4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A97716C-018F-4EEE-9CDA-F46BF845F4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C845C6-FB66-44DE-8706-51568B201037}
+	EndGlobalSection
+EndGlobal

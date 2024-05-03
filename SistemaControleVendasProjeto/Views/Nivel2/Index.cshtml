@@ -1,0 +1,57 @@
+﻿@model IEnumerable<SistemaControleVendasProjeto.Models.Pedido>
+
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Controle de Vendas</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Política de Privacidade</a>
+                    </li>
+                 
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Nivel2" asp-action="Index">Vendas</a>
+                    </li>
+                   
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<h1>Lista de Pedidos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID do Pedido</th>
+            <th>ID do Cliente</th>
+            <th>ID do Funcionário</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pedido in Model)
+        {
+            <tr>
+                <td>@pedido.PedidoID</td>
+                <td>@pedido.ClienteID</td>
+                <td>@pedido.FuncionarioID</td>
+                <td>
+                    
+                    <div class="form-group">
+                        <a asp-action="Details" asp-route-id="@pedido.PedidoID" class="btn btn-info">Detalhes</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
